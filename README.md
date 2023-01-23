@@ -55,3 +55,7 @@ skills into something I enjoy.
 Capstone Presentation
 ------
 [You can view my capstone presentation here](https://docs.google.com/presentation/d/15IRw7o4vAPIsvgicCaZoDDI7o-1IiEhN2Sj5HdwHEj8/edit?usp=sharing)
+
+
+
+[pdf version of the presentation](https://github.com/Orla-Cronin/digital-futures-projects/blob/main/Capstone_Presentation.pdf)
